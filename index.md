@@ -2,13 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>For wechat test</title>
 </head>
 <body>
-	<ul class="L1">
-	    <li><a href="#">菜单</a>
-	<ul class="L2"></li><a href="#"></a>
-	</li>
-	</ul>
+	<p>这只是一个测试文件,为了测试微信API调试借口</p>
 </body>
 </html>
